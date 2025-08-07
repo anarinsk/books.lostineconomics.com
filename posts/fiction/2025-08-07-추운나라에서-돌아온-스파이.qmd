@@ -1,6 +1,6 @@
 ---
 title: 존 르 카레, "추운 나라에서 돌아온 스파이"
-description: 놀라운 추리 소설 
+description: 이념 극장의 연기와 반연기 
 author: "JS HUHH"
 date: "08/07/2025"
 image: "./images/book-cat-4.webp"
